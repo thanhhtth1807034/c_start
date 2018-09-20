@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/array_c.dir/main.c.o  -o array_c.exe -Wl,--out-implib,libarray_c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
